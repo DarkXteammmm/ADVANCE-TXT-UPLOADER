@@ -60,7 +60,7 @@ OWNER_ID = 7786564335 # Replace with the actual owner's user ID
 SUDO_USERS = [7786564335]
 
 # ✅ Multiple AUTH CHANNELS allowed
-AUTH_CHANNELS = [-1003884025865,-]  # Add more channel IDs here
+AUTH_CHANNELS = [-1003884025865,-1003884025865]  # Add more channel IDs here
 
 # Function to check if a user is authorized
 def is_authorized(user_id: int) -> bool:
