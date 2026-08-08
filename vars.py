@@ -1,9 +1,9 @@
-# Don't Remove Credit Tg - @newstudent1885
-# Ask Doubt on telegram @newstudent1885
+# Don't Remove Credit Tg - @robinhood63
+# Ask Doubt on telegram @robinhood63
 
 from os import environ
 
-API_ID = "33667452"
-API_HASH = "60676f9a0e73dcb2496b6d94afc1dede"
-BOT_TOKEN = "8908292803:AAE1a9vK08DJCE5HZAp0exyCGTYIDoDklNM"
-OWNER_ID = "7786564335"
+API_ID = "36237546"
+API_HASH = "6f01984353006ed4bb09e8fd1ff5c2af"
+BOT_TOKEN = "8948774108:AAFZoJKJRaJPsE1UZNl-KOkgC4nXT8ABDwc"
+OWNER_ID = "8852146747"
